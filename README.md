@@ -16,7 +16,7 @@ increasing with time or not, because we know metals like gold are assets for pro
 
 ## Description of python file -- PCA model
 Description content
-
+Since we are team of analysis the different precious metals, we are trying to use another model to predict our data call pca. It is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
 1. bullet point
 2. bullt point
 
